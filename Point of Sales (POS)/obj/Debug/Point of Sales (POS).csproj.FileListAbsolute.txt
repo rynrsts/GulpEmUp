@@ -1,0 +1,118 @@
+c:\users\user\documents\visual studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.POS.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).pdb
+E:\Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe.config
+E:\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).exe
+E:\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).pdb
+E:\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csprojResolveAssemblyReference.cache
+E:\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.POS.resources
+E:\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Properties.Resources.resources
+E:\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.GenerateResource.Cache
+E:\Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe
+E:\Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.POSGulpEmUp.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.LogIn.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csprojResolveAssemblyReference.cache
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe.config
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).exe
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).pdb
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).pdb
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csprojResolveAssemblyReference.cache
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.POSGulpEmUp.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.LogIn.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Properties.Resources.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.GenerateResource.Cache
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Manager.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Void.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Manager.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Void.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Discount.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Pay.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Create.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Discount.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Pay.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Create.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Recipe.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Inventory.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe.config
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).pdb
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.POSGulpEmUp.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.LogIn.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Manager.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Void.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Discount.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Pay.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Create.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Recipe.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Inventory.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Properties.Resources.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.GenerateResource.Cache
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).exe
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).pdb
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csprojResolveAssemblyReference.cache
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Sales.resources
+C:\Users\jrmfa\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Trail.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Sales.resources
+C:\Users\raymon\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Trail.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Sales.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Trail.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Recipe.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Inventory.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe.config
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\bin\Debug\Point of Sales (POS).pdb
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.POSGulpEmUp.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Sales.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Trail.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.LogIn.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Manager.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Void.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Discount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Pay.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Create.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Recipe.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Inventory.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Properties.Resources.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).exe
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Gulp 'Em Up\Point of Sales (POS)\obj\Debug\Point of Sales (POS).pdb
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe.config
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).exe
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\bin\Debug\Point of Sales (POS).pdb
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.POSGulpEmUp.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Sales.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Trail.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.LogIn.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Manager.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Void.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Discount.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Pay.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Create.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Recipe.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Inventory.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point_of_Sales__POS_.Properties.Resources.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).exe
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Gulp 'Em Up - Point of Sales (POS)\Point of Sales (POS)\obj\Debug\Point of Sales (POS).pdb
